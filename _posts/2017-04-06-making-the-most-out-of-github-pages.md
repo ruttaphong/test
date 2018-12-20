@@ -1,6 +1,6 @@
 ---
 layout: post
-pagination: 
+pagination:
   enabled: true
 title: Making the Most Out of GitHub Pages
 img:
