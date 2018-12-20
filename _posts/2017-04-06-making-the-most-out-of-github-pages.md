@@ -1,7 +1,7 @@
 ---
 layout: post
 pagination:
-  enabled: true
+enabled: true
 title: Making the Most Out of GitHub Pages
 img:
     url: /img/posts/jekyll-github-pages.png
